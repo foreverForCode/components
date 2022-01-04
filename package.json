@@ -1,6 +1,6 @@
 {
-  "private": true,
-  "name": "z-mobile",
+ 
+  "name": "kk-mobile",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
